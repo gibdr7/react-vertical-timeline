@@ -57,7 +57,7 @@ const VerticalTimelineElement = ({
               'vertical-timeline-element-icon',
               {
                 'bounce-in': visible,
-                'is-hidden': !visible,
+                'is-hide': !visible,
               }
             )}
           >
@@ -71,7 +71,7 @@ const VerticalTimelineElement = ({
               'vertical-timeline-element-content',
               {
                 'bounce-in': visible,
-                'is-hidden': !visible,
+                'is-hide': !visible,
               }
             )}
           >
